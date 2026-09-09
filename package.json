@@ -6,7 +6,7 @@
     "url": "git@github.com:HospitalRun/server"
   },
   "dependencies": {
-    "csv-parse": "0.0.6",
+    "csv-parse": "7.0.2",
     "ejs": "^2.3.1",
     "express": "<= 3.5.x",
     "follow": ">=0.11.0",
